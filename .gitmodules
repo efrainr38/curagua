@@ -1,0 +1,9 @@
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/themes/flexible-seo-hugo"]
+	path = themes/themes/flexible-seo-hugo
+	url = https://github.com/pjbakker/flexible-seo-hugo.git
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git

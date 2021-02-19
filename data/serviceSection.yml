@@ -1,0 +1,30 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Ventas
+
+      ¿Quiere vender?
+      Déjenos esa tarea a nosotros. Somos Vendedores Profesionales.
+      Amplia base de datos de clientes 
+      Vendedores a nivel nacional
+      Apalancamiento tecnológico
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Procura 
+
+      Díganos que maquinaria o equipo desea comprar o alquilar y nosotros activamos nuestras redes de contactos
+    image: images/service/creative.svg
+  - content: >
+      #### Emarketing
+
+      Desplegamos estrategias de marketing por internet que nos ayudan al logro de nuestros objetivos. 
+    image: images/service/internet.svg
+  
+  
