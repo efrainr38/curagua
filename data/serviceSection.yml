@@ -1,25 +1,23 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Servicios
 title: >
-  ## Creative Services
+  ## Nuestros Servicios
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Nos enfocamos en la procura y venta de maquinarias, equipos, herramientas y
+  repuestos para el sector construcción e industria en general.
 service:
   - content: >
       #### Ventas
 
       ¿Quiere vender?
-      Déjenos esa tarea a nosotros. Somos Vendedores Profesionales.
-      Amplia base de datos de clientes 
-      Vendedores a nivel nacional
-      Apalancamiento tecnológico
+      Déjenos esa tarea a nosotros. Tenemos una red de Vendedores Profesionales a nivel nacional.
+            
     image: images/service/ui-ux.svg
   - content: >
       #### Procura 
 
-      Díganos que maquinaria o equipo desea comprar o alquilar y nosotros activamos nuestras redes de contactos
+      Díganos que maquinaria o equipo desea comprar o alquilar y nosotros activamos nuestras redes de contactos.
     image: images/service/creative.svg
   - content: >
       #### Emarketing
